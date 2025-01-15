@@ -1,0 +1,2 @@
+# aminoscript
+oo
